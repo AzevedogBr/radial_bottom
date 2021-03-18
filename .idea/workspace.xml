@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aecec9a6-c903-42eb-ba21-bc2fdc0e786b" name="Default Changelist" comment="Atualizado o package do rxdart">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="aecec9a6-c903-42eb-ba21-bc2fdc0e786b" name="Default Changelist" comment="Atualizado o package do rxdart" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +42,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../azevedo_radial_bottom" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -100,6 +98,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Atualizado o package do rxdart" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2660" y="295" key="FileChooserDialogImpl" timestamp="1616066132065">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2660" y="295" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1616066132065" />
     <state x="184" y="86" key="MergeDialog" timestamp="1616031846399">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
