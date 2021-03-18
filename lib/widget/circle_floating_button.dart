@@ -118,8 +118,6 @@ class CircleFloatingButtonState extends State<CircleFloatingButton> {
   BlocController _bloc;
   GlobalKey containerKey = GlobalKey();
 
-
-
   close() {
     _bloc.close();
   }
