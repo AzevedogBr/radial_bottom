@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aecec9a6-c903-42eb-ba21-bc2fdc0e786b" name="Default Changelist" comment="Atualizado o package do rxdart" />
+    <list default="true" id="aecec9a6-c903-42eb-ba21-bc2fdc0e786b" name="Default Changelist" comment="Atualizado o package do rxdart">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615331069096</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Atualizado o package do rxdart">
+      <created>1616031773138</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616031773138</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,12 +96,21 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Atualizado o package do rgdart" />
-    <option name="LAST_COMMIT_MESSAGE" value="Atualizado o package do rgdart" />
+    <MESSAGE value="Atualizado o package do rxdart" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualizado o package do rxdart" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1615331099849">
+    <state x="184" y="86" key="MergeDialog" timestamp="1616031846399">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1615331099849" />
+    <state x="184" y="86" key="MergeDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1616031846399" />
+    <state x="598" y="281" key="MultipleFileMergeDialog" timestamp="1616031846404">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="598" y="281" key="MultipleFileMergeDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1616031846404" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1616031785946">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1616031785946" />
   </component>
 </project>
